@@ -18,13 +18,16 @@ and tested screen resolutions: 1440px, 1200px, 1024px, 768px, 425px, 375px
 -The part of the design that I was stuck on and took the longest was building the the charts(Site Visits and Revenue) specifically picking the chart type. The easiest part was the navigation and its animation.
 
 3. What part of the design didn't make sense? Did you change anything?
-The design made sense to me having built dashboards before.
+
+-The design made sense to me having built dashboards before.
 
 4. If you had more time, what would you have liked to implement?
-If I had more time I would have used a mixture of 2 different colors to match with the blue and I would have add more interaction with the dashboard.
+
+-If I had more time I would have used a mixture of 2 different colors to match with the blue and I would have add more interaction with the dashboard.
 For instance hover effects, notifications and more ..
 
 5. What did you have to research or lookup while working on this?
+
 -I researched which type of chart would be best for this type of application
 
 
